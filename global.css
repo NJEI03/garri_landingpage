@@ -155,11 +155,11 @@ body{
     }50%{
         transform: scale(1.1) rotate(0);
         
-    }100%{transform: scale(1) rotate(45deg);
+    }100%{transform: scale(1) rotate(45deg); 
     }
     
 }
-@keyframes enter {
+@keyframes enter {   
     from{
         transform: translateX(-40%);
     }
